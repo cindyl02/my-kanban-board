@@ -1,0 +1,19 @@
+html {
+  min-height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(#d5e6fa, #9bc8ff);
+  height: 100%;
+  width: 100%;
+  font-size: 1rem;
+}
+
+textarea {
+  font-family: "Roboto", sans-serif;
+  font-size: 1rem;
+}
