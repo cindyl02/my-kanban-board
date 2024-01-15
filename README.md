@@ -1,4 +1,4 @@
-# Kanban Board
+# Kanban Board (2020)
 
 A kanban board implemented with React + Redux. 
 
